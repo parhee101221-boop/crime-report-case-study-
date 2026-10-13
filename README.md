@@ -1,4 +1,4 @@
-# Crime Report Case Study
+# Crime Report 
 
 ## Project Overview
 An Excel-based data analytics project exploring crime trends, rankings, victim profiles, and reported cases. The project presents key findings through an executive dashboard and supporting analysis.
