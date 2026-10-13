@@ -27,11 +27,18 @@ The dashboard summarizes the key findings through KPI cards and visualizations.
 
 
 
-## 🔍 Key Insights
-- Reported cases increased between 2015 and 2025.
-- Uttar Pradesh and Maharashtra recorded high case totals in the analyzed dataset.
-- Sexual Harassment was the highest-ranked crime type in the analysis.
-- The dataset supports comparisons across years, states, crime groups, and victim profiles.
+## 📊 Key Insights
+
+- **Rising Crime Trend:** Reported cases increased from 14,246 in 2015 to 27,190 in 2025 — an increase of approximately 90.9%.
+- **Recent Growth:** Reported cases increased by 10.7% in 2024 and 11.8% in 2025.
+- **State Comparison:** Uttar Pradesh recorded 24,839 cases, followed by Maharashtra with 19,441.
+- **Crime Categories:** Sexual Harassment ranked first among the listed crime types, with 33,205 reported cases.
+- **Victim Profile:** The analysis compares reported cases involving women and children.
+- **Tools Used:** Microsoft Excel, PivotTables, charts, formulas, and dashboard design.
+
+
+
+
 
 
 
