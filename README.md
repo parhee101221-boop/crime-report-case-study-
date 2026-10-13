@@ -1,40 +1,45 @@
-# Crime Report Case Study
+# Crime Report Analysis | Excel Dashboard
 
-## Project Overview
-An Excel-based data analytics project exploring crime trends, rankings, victim profiles, and reported cases. The project presents key findings through an executive dashboard and supporting analysis.
+## 📌 Project Overview
+This project analyzes reported crime cases to identify trends over time, state-wise patterns, crime categories, and victim profiles.
 
-## Objectives
-- Analyze changes in reported crime cases over time.
-- Identify the states and crime categories contributing the most cases.
-- Explore victim demographics by gender and age.
-- Present key findings and data limitations clearly.
-- Develop data-driven recommendations.
+The objective is to turn raw data into meaningful insights that support better understanding of crime patterns.
 
-## Tools Used
+## 🎯 Objectives
+- Analyze year-wise trends in reported cases.
+- Identify states with the highest reported cases.
+- Examine the most frequently reported crime types.
+- Understand victim profiles and case status.
+- Build an interactive Excel dashboard for visual analysis.
+
+## 🛠️ Tools Used
 - Microsoft Excel
-- PivotTables and charts
-- Data cleaning and analysis
-- Dashboard design
+- Data Cleaning and Transformation
+- PivotTables and Charts
+- Excel Dashboard and Data Analysis
 
-## Workbook Contents
-The Excel workbook includes the following worksheets:
+## 📊 Dashboard Preview
+The dashboard summarizes the key findings through KPI cards and visualizations.
 
-1. **Readme** – Project overview and objectives.
-2. **Trends & Ranking** – Crime trends and rankings.
-3. **Workbook Map** – Guide to navigating the workbook.
-4. **Data Dictionary** – Definitions of dataset fields.
-5. **Q&A** – Analytical questions and answers.
-6. **Recommendations** – Suggested actions based on the analysis.
-7. **Data Notes & Caveats** – Data limitations and important notes for interpreting results.
+.<img width="364" height="317" alt="Crime_Report_Dashboard" src="https://github.com/user-attachments/assets/2ed1dcc0-be57-4c70-b63a-b86b80df9e44" />
+<img width="358" height="322" alt="Crime_Report_Dashoard1" src="https://github.com/user-attachments/assets/bf9cfa06-c44a-45d2-af15-bde492e857a2" />
 
-## Key Questions
-- How have reported crime cases changed over time?
-- Which states and crime categories contribute the most reported cases?
-- What patterns appear across victim gender and age groups?
-- What limitations should be considered when interpreting the findings?
 
-## Important Note
-Reported cases represent recorded cases in the dataset and should not automatically be interpreted as the complete incidence of crime. Please refer to the Data Notes & Caveats worksheet before quoting figures.
 
-## Project Files
-See the Excel workbook files listed in this repository to explore the dashboard and supporting analysis.
+## 🔍 Key Insights
+- Reported cases increased between 2015 and 2025.
+- Uttar Pradesh and Maharashtra recorded high case totals in the analyzed dataset.
+- Sexual Harassment was the highest-ranked crime type in the analysis.
+- The dataset supports comparisons across years, states, crime groups, and victim profiles.
+
+
+
+## 📁 Repository Contents
+- Excel workbook containing the analysis and dashboard.
+- Dashboard screenshots for quick viewing.
+
+## ⚠️ Data Notes
+The number of records may differ from the number of reported cases. Refer to the workbook's data notes and caveats before quoting totals or drawing conclusions.
+
+## 👤 Author
+Data Analytics Project | Crime Report Case Study
