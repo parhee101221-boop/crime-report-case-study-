@@ -1,3 +1,4 @@
+<img width="1983" height="793" alt="Crime Report Analysis Dashboard" src="https://github.com/user-attachments/assets/c1d98849-5296-4dea-b85e-a59dccc71e18" />
 # Crime Report Analysis | Excel Dashboard
 
 ## 📌 Project Overview
