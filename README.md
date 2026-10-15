@@ -1,5 +1,19 @@
 <img width="1983" height="793" alt="Crime Report Analysis Dashboard" src="https://github.com/user-attachments/assets/c1d98849-5296-4dea-b85e-a59dccc71e18" />
 # Crime Report Analysis | Excel Dashboard
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+  <img src="https://img.shields.io/badge/Data_Cleaning-0A66C2?style=for-the-badge" alt="Data Cleaning"/>
+  <img src="https://img.shields.io/badge/Power_Query-5E5E5E?style=for-the-badge" alt="Power Query"/>
+  <img src="https://img.shields.io/badge/PivotTables-107C41?style=for-the-badge" alt="PivotTables"/>
+  <img src="https://img.shields.io/badge/Data_Visualization-8A2BE2?style=for-the-badge" alt="Data Visualization"/>
+  <img src="https://img.shields.io/badge/Dashboard_Design-0078D4?style=for-the-badge" alt="Dashboard Design"/>
+</p>
+
+
+
+
+
+
 
 
 
@@ -7,6 +21,11 @@
 This project analyzes reported crime cases to identify trends over time, state-wise patterns, crime categories, and victim profiles.
 
 The objective is to turn raw data into meaningful insights that support better understanding of crime patterns.
+
+
+
+
+
 
 
 
@@ -23,12 +42,22 @@ The dashboard summarizes the key findings through KPI cards and visualizations.
 
 
 
+
+
+
+
 ## 🎯 Objectives
 - Analyze year-wise trends in reported cases.
 - Identify states with the highest reported cases.
 - Examine the most frequently reported crime types.
 - Understand victim profiles and case status.
 - Build an interactive Excel dashboard for visual analysis.
+
+
+
+
+
+
 
 ## 🛠️ Tools Used
 - Microsoft Excel
