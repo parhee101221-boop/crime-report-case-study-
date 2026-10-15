@@ -28,24 +28,6 @@ The objective is to turn raw data into meaningful insights that support better u
 
 
 
-
-
-
-
-## 📊 Dashboard Preview
-The dashboard summarizes the key findings through KPI cards and visualizations.
-
-.<img width="364" height="317" alt="Crime_Report_Dashboard" src="https://github.com/user-attachments/assets/2ed1dcc0-be57-4c70-b63a-b86b80df9e44" />
-<img width="358" height="322" alt="Crime_Report_Dashoard1" src="https://github.com/user-attachments/assets/bf9cfa06-c44a-45d2-af15-bde492e857a2" />
-
-
-
-
-
-
-
-
-
 ## 🎯 Objectives
 - Analyze year-wise trends in reported cases.
 - Identify states with the highest reported cases.
@@ -55,15 +37,40 @@ The dashboard summarizes the key findings through KPI cards and visualizations.
 
 
 
+📊 Visual Analysis
+
+- Year-wise Crime Trends
+<img width="1526" height="867" alt="image" src="https://github.com/user-attachments/assets/4d5461c5-bd62-496b-a64f-8bceb46b04da" />
+
+
+-State-wise Reported Cases
+<img width="923" height="770" alt="image" src="https://github.com/user-attachments/assets/c54f596d-232b-49d0-a677-b3e7d48de1ad" />
+
+
+Top 10 Crime Types
+<img width="1521" height="610" alt="image" src="https://github.com/user-attachments/assets/26fe16ef-9f81-4662-9a69-1f153708cd9c" />
+
+
+Victim Profile and Case Status			
+<img width="2041" height="760" alt="image" src="https://github.com/user-attachments/assets/b0d3cfcf-c925-435e-b0b3-dea132d2322e" />
+
+## 📊Interactive Excel Dashboard
+The dashboard summarizes the key findings through KPI cards and visualizations.
+
+<img width="364" height="317" alt="Crime_Report_Dashboard" src="https://github.com/user-attachments/assets/2ed1dcc0-be57-4c70-b63a-b86b80df9e44" />
+<img width="358" height="322" alt="Crime_Report_Dashoard1" src="https://github.com/user-attachments/assets/bf9cfa06-c44a-45d2-af15-bde492e857a2" />
+
+
+
 
 
 
 
 ## 🛠️ Tools Used
-- Microsoft Excel
-- Data Cleaning and Transformation
-- PivotTables and Charts
-- Excel Dashboard and Data Analysis
+- Microsoft Excel <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+- Data Cleaning and Transformation<img src="https://img.shields.io/badge/Data_Cleaning-0A66C2?style=for-the-badge" alt="Data Cleaning"/>
+- PivotTables and Charts <img src="https://img.shields.io/badge/PivotTables-107C41?style=for-the-badge" alt="PivotTables"/>
+- Excel Dashboard and Data Analysis <img src="https://img.shields.io/badge/PivotTables-107C41?style=for-the-badge" alt="PivotTables"/>
 
 
 
