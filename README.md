@@ -40,7 +40,7 @@ The objective is to turn raw data into meaningful insights that support better u
 📊 Visual Analysis
 
 - Year-wise Crime Trends
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/4d5461c5-bd62-496b-a64f-8bceb46b04da" />
+<img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/4d5461c5-bd62-496b-a64f-8bceb46b04da" />
 
 
 -State-wise Reported Cases
