@@ -44,7 +44,7 @@ The objective is to turn raw data into meaningful insights that support better u
 
 
 -State-wise Reported Cases
-<img width="923" height="770" alt="image" src="https://github.com/user-attachments/assets/c54f596d-232b-49d0-a677-b3e7d48de1ad" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/c54f596d-232b-49d0-a677-b3e7d48de1ad" />
 
 
 Top 10 Crime Types
